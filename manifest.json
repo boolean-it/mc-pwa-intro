@@ -1,0 +1,14 @@
+{
+  "short_name": "Hello PWA",
+  "name": "Boolean - Hello PWA",
+  "description": "Just a PWA test app",
+  "start_url": "index.html",
+  "icons": [{
+    "src": "images/icons/logo-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "background_color": "#2a9d8f",
+  "theme_color": "#2a9d8f",
+  "display": "fullscreen"
+}
